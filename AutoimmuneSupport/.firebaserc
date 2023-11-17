@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "autoimmune-support": {
+      "hosting": {
+        "app": [
+          "autoimmune-support"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "autoimmune-support"
+  }
+}

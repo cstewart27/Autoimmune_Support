@@ -1,0 +1,7 @@
+{
+  "name": "AutoimmuneSupport",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
